@@ -1,0 +1,9 @@
+<<<<<<< HEAD
+<resources>
+    <string name="app_name">ipay</string>
+</resources>
+=======
+<resources>
+    <string name="app_name">iPaySuite</string>
+</resources>
+>>>>>>> bdba1535f17253dd806ddde69f578f46a902e196

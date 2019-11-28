@@ -1,0 +1,26 @@
+[
+    {
+        "name": "NOTIFICATIONS",
+        "type": "header"
+    },
+    {
+        "name": "Email notifications",
+        "type": "switch"
+    },
+    {
+        "name": "SMS notifications",
+        "type": "switch"
+    },
+    {
+        "name": "ACCOUNT",
+        "type": "header"
+    },
+    {
+        "name": "Change password",
+        "type": "item"
+    },
+    {
+        "name": "Log Out",
+        "type": "item"
+    }
+]
