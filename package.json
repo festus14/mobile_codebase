@@ -9,7 +9,7 @@
     },
     "dependencies": {
         "@react-native-community/async-storage": "^1.5.0",
-        "moment": "^2.24.0",
+        "moment": "^2.29.2",
         "react": "^16.9.0",
         "react-native": "^0.60.5",
         "react-native-cached-image": "github:fungilation/react-native-cached-image",
